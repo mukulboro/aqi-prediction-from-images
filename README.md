@@ -21,11 +21,7 @@ The `MultiTaskCNN` model is composed of a shared feature extractor and two task-
 2.  **Classification Head:** An MLP that takes the shared features and outputs 2 logits for the binary classification task (is it a sky image?).
 3.  **Regression Head:** A separate MLP that also takes the shared features and outputs a single continuous value representing the predicted AQI.
 
-<p align="center">
-  <img src=".github/architecture.png" alt="TikhoFormer Architecture Diagram" width="800"/>
-  <br>
-  <em>Fig 1. Detailed schematic of the Multi-Task AQI prediction network</em>
-</p>
+
 
 
 ## Setup and Installation
