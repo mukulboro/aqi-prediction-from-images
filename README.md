@@ -77,14 +77,15 @@ The training process balances the two tasks by heavily weighting the regression 
 If you use this work in your research, please consider citing the original dataset providers and this repository.
 
 ```bibtex
-@misc{AQI-MultiTask-CNN-2024,
-  author=Mukul Aryal,
-  title={AQI Prediction and Sky Image Classification Using a Multi-Task CNN},
-  year={2024},
-  publisher={GitHub},
-  journal={GitHub repository},
-  howpublished={\url{https://github.com/your-username/AQI_Prediction}}
+@misc{AQI-MultiTask-CNN-2025,
+  author       = {Mukul Aryal},
+  title        = {AQI Prediction and Sky Image Classification Using a Multi-Task CNN},
+  year         = {2024},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/mukulboro/aqi-prediction-from-images}},
+  note         = {GitHub repository}
 }
+
 ```
 
 ## License
