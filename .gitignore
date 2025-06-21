@@ -1,0 +1,6 @@
+dataset/
+*/__pycache__/*
+.venv/
+*.pth
+backup/
+*.png
