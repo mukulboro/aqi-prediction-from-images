@@ -72,7 +72,7 @@ If you use this work in your research, please consider citing the original datas
 
 ```bibtex
 @misc{AQI-MultiTask-CNN-2024,
-  author=Mukul,
+  author=Mukul Aryal,
   title={AQI Prediction and Sky Image Classification Using a Multi-Task CNN},
   year={2024},
   publisher={GitHub},
